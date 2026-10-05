@@ -1,1 +1,0 @@
-# Bio-Medical-Waste-Segregation
